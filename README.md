@@ -10,7 +10,7 @@ composer require filament-icons/carbon
 
 ## Usage
 
-This package provides 2501 icons from Carbon Icons.
+This package provides 169 icons from Carbon Icons.
 
 ```blade
 <x-icon-carbon-home />
@@ -19,4 +19,4 @@ This package provides 2501 icons from Carbon Icons.
 ## Note
 
 This package is automatically generated and updated daily.
-Last updated: 2025-07-31 19:05:49
+Last updated: 2025-07-31 19:17:08
